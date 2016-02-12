@@ -1,0 +1,10 @@
+#QvAjaxToolbar {
+	position:fixed !important;
+	top:0px;
+}
+.shadetabs3 {
+	position:fixed !important;
+	margin-top:25px;
+	top:0px;
+	z-index:998;
+}
